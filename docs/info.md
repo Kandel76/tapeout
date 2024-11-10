@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-sdf
+It works by adder two bit numbers
 
 ## How to test
 
-th
+set all inputs
 
 ## External hardware
 
-sdf
+Buttons and leds
